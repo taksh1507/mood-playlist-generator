@@ -155,5 +155,3 @@ NEXT_PUBLIC_API_URL=http://localhost:5000
 ✅ Cache strategy  
 
 ---
-
-**Built for Aryax Technologies Internship**
